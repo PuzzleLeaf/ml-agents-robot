@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 6b063fc5e31bb99449f04440bddd8355
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: Assets/ML-Agents/Examples/PuzzleleafBasic/TFModels/RollerBallBrain 2.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}
